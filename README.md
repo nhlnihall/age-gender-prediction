@@ -12,6 +12,8 @@ $ wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 unzip the file
 
+$ pip install dlib
+
 $ cd ..
 
 download the 22801 file and add to directory of project
